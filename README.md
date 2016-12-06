@@ -14,7 +14,7 @@ QUnit 使用
 
 ###为什么选择[Qunit](http://qunitjs.com/)?
 
-原因是这个框架很简单上手，也是单元测试新手的最佳选择，就像Jquery那么easy，对于初学者来说，[Qunit](http://qunitjs.com/)跟jQuery是也是出自同一人之手。[Qunit](http://qunitjs.com/)也是用来测试jQuery 本身的单元测试框架， Qunit对于jQuery开发者也是单元测试框架的最佳选择。当然还有更多javascript单元测试框架比如 [mocha](http://visionmedia.github.io/mocha/),[jasmine](http://pivotal.github.io/jasmine/),断言库[chai](http://chaijs.com/),[should.js](https://github.com/visionmedia/should.js)、[Expect](https://github.com/LearnBoost/expect.js)、[better-assert](better-assert)等
+原因是这个框架很简单上手，也是单元测试新手的最佳选择，就像Jquery那么easy，对于初学者来说，[Qunit](http://qunitjs.com/)跟jQuery是也是出自同一人之手。[Qunit](http://qunitjs.com/)也是用来测试jQuery 本身的单元测试框架， Qunit对于jQuery开发者也是单元测试框架的最佳选择。当然还有更多javascript单元测试框架比如 [mocha](http://visionmedia.github.io/mocha/),[jasmine](https://jasmine.github.io/),断言库[chai](http://chaijs.com/),[should.js](https://github.com/visionmedia/should.js)、[Expect](https://github.com/LearnBoost/expect.js)、[better-assert](better-assert)等
 
 ###开始搭建环境
 第一步就是先下载[Qunit](http://qunitjs.com/)的Javascript 和CSS文件。地址如下
